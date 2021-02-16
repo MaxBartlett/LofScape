@@ -1,1 +1,1 @@
-# LofScape
+LofScape was my final project for AP Computer Science, Fall 2015, at Chaparral High School in Scottsdale AZ, taught by Mr. Jonathan Lofgren. You can build the project locally from the Frame.java class, or you can also find a demo of the project [here](https://www.youtube.com/watch?v=NPXR_-NIlVM).
